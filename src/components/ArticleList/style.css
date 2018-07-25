@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.card {
+    margin-bottom: 15px;
+    box-shadow: 0 0 5px 0 #5e646b;
+}
+
+.card button{
+    cursor: pointer;
+}
